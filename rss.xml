@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Randomtest]]></title>
         <description><![CDATA[Randomtest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/randomtest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 01:42:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 23 Jun 2016 01:44:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/randomtest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://www.dickssportinggoods.com/product/index.jsp?productId=93354466&page=1</p>]]></description>
-            <link>undefinedhttpwwwdickssportinggoodscomproductindexjspproducti/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85bd1d7d-fff5-49a2-96ad-a5d515218f62.jpg">]]></description>
+            <link>https://thegrid.ai/randomtest/httpwwwdickssportinggoodscomproductindexjspproducti/index.html</link>
             <guid isPermaLink="false">ecca0f2a-4b2e-4e84-aef7-8e0151bcba43</guid>
-            <pubDate>Thu, 23 Jun 2016 01:42:26 GMT</pubDate>
+            <pubDate>Thu, 23 Jun 2016 01:44:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
